@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=., initial-scale=1.0">
+    <title>Document</title>
+    <meta data-="">
+</head>
+
+<body>
+    <div>
+        <h1>my story </h1>
+        <p></p>
+    </div>
+    <div>
+        <table>
+            <thead>
+                <th align="3">
+                    <tr>marwan mohammed </tr>
+                </th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>mao</td>
+                </tr>
+                <tr>
+                    <td>alghrably</td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td>alghahbaz</td>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+</body>
+
+</html>

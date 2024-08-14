@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=7">
+  </head>
+  <body>
+    <header>
+      <h1>the seconed page</h1>
+      <br>
+      <p></p>
+
+        <dl>
+              <dt> </dt>
+            <dd></dd>    
+           </dl>
+
+    </header>
+    <section>
+
+    </section>
+    <footer>
+
+    </footer>
+  </body>
