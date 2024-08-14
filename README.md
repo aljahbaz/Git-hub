@@ -1,3 +1,3 @@
-# Git-hub-1
+# HTML
 for ekzero web school course
 ##notces
